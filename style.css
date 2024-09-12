@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(203 213 225);
+}
+button{
+    background-color: #0284c7;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+}
+.full-height{
+    height: 100vh;
+}
